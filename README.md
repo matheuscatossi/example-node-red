@@ -56,4 +56,3 @@ Neste exemplo em nodered utilizo APIs como Text to Speech, Cloudant e Conversati
 * Adicione: Cloudant Out
   - Informe o database: nodered (ou se preferir crie outro)
   - Selecione a opção insert
-
