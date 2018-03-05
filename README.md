@@ -126,7 +126,7 @@
     </div>
 * Adicione: response HTTP
 * Resultado esperado: 
-![Resultado esperado](https://github.com/matheuscatossi/example-node-red/blob/master/resultnode1.png)
+![Resultado esperado](https://github.com/matheuscatossi/example-node-red/blob/master/resultnode2.png)
 
 ### Terceiro (e último) fluxo
 * Adicione um Input HTTP
@@ -228,6 +228,6 @@
 
 * Adicione: response HTTP
 * Resultado esperado: 
-![Resultado esperado](https://github.com/matheuscatossi/example-node-red/blob/master/resultnode1.png)
+![Resultado esperado](https://github.com/matheuscatossi/example-node-red/blob/master/resultnode3.png)
 
 # Obrigado!
