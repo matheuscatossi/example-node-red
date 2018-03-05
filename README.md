@@ -1,6 +1,6 @@
 # example-node-red
 
-* Vamos criar uma interface que receba um texto em um campo input, interprete e indentifique em que caso ele irá cair no Conversation, converter a resposta em áudio e listar todos os casos de input e output. Além disso, deixar bonitinho ;)
+* Vamos criar uma interface que receba um texto em um campo input, interprete e indentifique em que caso ele irá cair no Conversation, converta a resposta em áudio e liste todos os casos de input e output. Além disso, deixar bonitinho ;)
 
 * [Exemplo funcional](https://example-node-red-catossi.mybluemix.net/template-input) - Neste link você pode ver o resultado
 
@@ -22,7 +22,7 @@
 
 
 ### Antes de tudo
-* Vá ao IBM Cloud, na sua instância de Node-red e crie conexões com os serviços de Conversation e Text to Speech. (Você vai reparar que já tem a conexão com o Cloudant, ele cria para guardar as infos dos nós.)
+* Vá ao IBM Cloud, na sua instância de Node-red e crie conexões com os serviços de Conversation e Text to Speech. (Você vai reparar que já existe a conexão com o Cloudant, ele cria automaticamente para guardar as infos dos nós (nodes).)
 
 ### Primeiro fluxo
 * Adicione: Input HTTP
